@@ -1,7 +1,9 @@
 ---
 page_type: sample
-languages: java
-products: azure
+languages:
+- java
+products:
+- azure
 services: Locks
 platforms: java
 author: yaohaizh
