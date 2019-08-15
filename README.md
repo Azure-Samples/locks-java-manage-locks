@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Locks
-platforms: java
-author: yaohaizh
+extensions:
+- services: Locks
+- platforms: java
 ---
 
-## Getting Started with Locks - Manage Locks - in Java ##
+# Getting Started with Locks - Manage Locks - in Java #
 
 
   This sample shows examples of management locks usage on various resources.
