@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Locks
-- platforms: java
+description: "Getting Started with Locks - Manage Locks - in Java"
+urlFragment: locks-java-manage-locks
 ---
 
 # Getting Started with Locks - Manage Locks - in Java #
